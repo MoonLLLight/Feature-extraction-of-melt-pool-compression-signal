@@ -1,0 +1,3 @@
+The ImageNet dataset is sourced from https://image-net.org/challenges/LSVRC/2017/index.
+ResNet-18 and GoogleNet were employed in the Deep Network Designer module.
+基于不同输入大小训练的预训练CNN网络在对应的信号数据集的文件夹中。
